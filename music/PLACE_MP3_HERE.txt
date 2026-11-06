@@ -1,0 +1,2 @@
+Place your legally obtained song file here and rename it zenith-come-here.mp3
+The website plays music only after the visitor clicks the music button.
